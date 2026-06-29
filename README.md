@@ -6,7 +6,9 @@
 
 ## 腳本文件 ##
 下載 `script.js` 並於`tampermonkey`安裝並啓用
-在[www.hbr-tool.com/#/simulator](https://www.hbr-tool.com/#/simulator)會自動啓用 並把日文技能翻譯成中文繁體名字
+
+權限設定好且啓用後 在[www.hbr-tool.com/#/simulator](https://www.hbr-tool.com/#/simulator)會自動啓用 
+並把日文技能翻譯成中文繁體名字
 
 ## 更新 ##
 會依據hbr.quest更新後 不定時更新技能文件 你無需更新腳本 我會直接更新網上的技能名字文件
